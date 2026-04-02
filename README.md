@@ -2,6 +2,8 @@
 
 Welcome to the public feedback repository for **Fretboard Jam**.
 
+<a href="https://buymeacoffee.com/alex_m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## About the app
 
 [Fretboard Jam](https://fretboardjam.com/) is an interactive guitar learning app focused on helping players understand the fretboard through hands-on practice. It includes exercises and game modes for note recognition, patterns, speed, and practical musical training.
