@@ -2,7 +2,9 @@
 
 Welcome to the public feedback repository for **Fretboard Jam**.
 
+If you want to support the project, please consider buying me a coffee
 <a href="https://buymeacoffee.com/alex_m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+Your support helps keep the project improving.
 
 ## About the app
 
@@ -17,10 +19,6 @@ This repository is the place to:
 ## Support the project
 
 If Fretboard Jam helps you and you want to support continued development, please consider buying me a coffee:
-
-**Buy Me a Coffee:** https://buymeacoffee.com/mayeral
-
-Your support helps keep the project improving.
 
 ## How to share feedback
 
