@@ -20,7 +20,7 @@
 - [Practice Features](#practice-features)
   - [One String Mode](#one-string-mode)
   - [Fret Range](#fret-range)
-  - [Mic / Real Guitar Mode](#mic--real-guitar-mode-)
+  - [Mic / guitar Mode](#mic--real-guitar-mode-)
   - [Octave Mode](#octave-mode)
 - [The Theory](#the-theory)
   - [Chromatic Scale](#the-chromatic-scale)
@@ -122,7 +122,7 @@ A fret position is shown and a note is played through your speakers. Pick the co
 
 A note name appears. You must tap the correct fret on **every string** — one string at a time, working from the low E down to the high e. Each string lights up as you complete it. This mode builds a deep, holistic understanding of how the same note repeats across the neck at different octaves.
 
-Mic mode is fully supported: play each position on your real guitar and the app detects pitch automatically.
+Mic mode is fully supported: play each position on your guitar and the app detects pitch automatically.
 
 ---
 
@@ -216,11 +216,11 @@ Master each region in isolation before combining them into full-neck practice.
 
 ---
 
-### Mic / Real Guitar Mode 🎤
+### Interactive Mic / guitar Mode 🎤
 
 ![Screenshot: Mic mode active — microphone icon highlighted in the prompt card, pitch detection running](screenshots/feature-mic-mode.png)
 
-Connect your guitar (via an audio interface, or directly on devices that support it), tap the microphone button, and **play the answer on your real guitar**. The app detects pitch through your browser's built-in microphone API — no plugin or download required.
+Connect your guitar (via an audio interface, or directly on devices that support it), tap the microphone button, and **play the answer on your guitar**. The app detects pitch through your browser's built-in microphone API — no plugin or download required.
 
 This is the most powerful practice mode because it bridges fretboard knowledge directly into actual playing on your instrument.
 
@@ -318,7 +318,7 @@ Not sure where to start? Here is a recommended progression that takes you from z
 | **5 — Speed Benchmark** | Combine everything under time pressure | Speed Run |
 | **6 — Add Accidentals** | Unlock sharps and flats | Note Hunt + Speed Run (accidentals on) |
 | **7 — Full Neck** | No restrictions, all notes | Speed Run (full neck, all notes) |
-| **8 — Real Guitar** | Bridge to actual playing | Any mode with Mic enabled |
+| **8 — guitar** | Bridge to actual playing | Any mode with Mic enabled |
 
 ---
 

@@ -1,0 +1,103 @@
+FRETBOARD JAM — SCREENSHOTS TO TAKE
+=====================================
+Save each file as PNG in this folder with the exact filename listed below.
+Recommended resolution: 1280×720 or higher. Crop to content where noted.
+
+----------------------------------------------------------------------
+SECTION: App Interface
+----------------------------------------------------------------------
+
+app-overview.png
+  What to show : Full app on the main Note Hunt screen.
+                 Prompt card visible at top (a note name shown),
+                 interactive fretboard below, score/streak in header,
+                 settings toolbar at the bottom.
+  Tips         : Use light mode for a clean first impression.
+                 Pick a simple note like "G" as the active prompt.
+
+----------------------------------------------------------------------
+SECTION: App Modes — Basics
+----------------------------------------------------------------------
+
+mode-notehunt.png
+  What to show : Note Hunt mid-game. A note name (e.g. "D") in the
+                 prompt card. Fretboard interactive, no fret highlighted
+                 yet (before the player taps).
+  Tips         : String lock OFF, full neck visible.
+
+mode-fretflash.png
+  What to show : Hear & Name mode. The fret position shown in the prompt
+                 card (e.g. "3rd fret, A string"). The 12 note-name choice
+                 buttons visible below the fretboard.
+  Tips         : Capture before an answer is selected so all buttons
+                 show their neutral state.
+
+mode-octaveconnect.png
+  What to show : Octave Connect mode. A note name shown (e.g. "E").
+                 The 6 string-progress dots visible at the top of the
+                 prompt card (some done in green, one active in purple).
+  Tips         : Complete 2–3 strings first so the progress indicator
+                 is clearly visible.
+
+----------------------------------------------------------------------
+SECTION: App Modes — Speed & Challenge
+----------------------------------------------------------------------
+
+mode-speedrun.png
+  What to show : Speed Run mid-game. The circular countdown timer
+                 clearly visible (around 30 seconds remaining).
+                 Score showing in the header (e.g. 12 correct).
+                 Fretboard active.
+  Tips         : Capture while the timer arc is partial so it reads
+                 as a ticking clock.
+
+----------------------------------------------------------------------
+SECTION: Practice Features
+----------------------------------------------------------------------
+
+feature-string-lock.png
+  What to show : Note Hunt with the string lock active on the A string
+                 (string 5). Only the A string is highlighted / active
+                 on the fretboard. Settings toolbar visible below with
+                 the string selector showing "A" selected.
+  Tips         : Crop tightly to the fretboard + toolbar area.
+
+feature-fret-range.png
+  What to show : The settings toolbar open, Min Fret set to 5 and
+                 Max Fret set to 9. The fretboard should show the
+                 fret range highlighted (frets 5–9 lit up in the
+                 range-highlight color).
+  Tips         : Capture the toolbar and fretboard together in one shot.
+
+feature-mic-mode.png
+  What to show : Mic mode active (microphone icon lit/highlighted in
+                 the prompt card toolbar). A note prompt visible.
+                 Ideally the mic meter or pitch indicator visible.
+  Tips         : Grant mic permission in the browser first.
+                 The 🎤 icon should appear in its active/on state.
+
+----------------------------------------------------------------------
+SECTION: Theory
+----------------------------------------------------------------------
+
+theory-fretboard-layout.png
+  What to show : The bare fretboard (no game active or between rounds)
+                 with inlay dots clearly visible at frets 3, 5, 7, 9
+                 and the double dot at fret 12.
+  Tips         : Dark mode works great here — the inlay dots stand out
+                 against the dark neck. No highlighted notes, just the
+                 clean neck with markers.
+
+theory-shortcuts.png
+  What to show : A note highlighted on the low E string (e.g. fret 3 = G)
+                 AND its octave counterpart on the D string (fret 5 = G)
+                 both lit up simultaneously, illustrating the
+                 "2 strings down, 2 frets up" shortcut pattern.
+  Tips         : Use the Octave Connect mode — play the first string,
+                 then take the screenshot before moving to the next string
+                 so both positions are highlighted at once.
+                 Annotate with an arrow in an image editor if possible.
+
+----------------------------------------------------------------------
+TOTAL: 10 screenshots
+----------------------------------------------------------------------
