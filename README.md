@@ -4,7 +4,8 @@
 >
 > [fretboardjam.com](https://fretboardjam.com)
 
-<a href="https://buymeacoffee.com/alex_m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+<a href="https://buymeacoffee.com/alex_m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" width="217"></a>
 
 
 ---
@@ -322,9 +323,9 @@ Please open an issue and include as much detail as possible:
 
 Fretboard Jam is free. If it is helping you learn the fretboard, please consider supporting development:
 
-<a href="https://buymeacoffee.com/alex_m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://buymeacoffee.com/alex_m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" width="217"></a>
 
-Your support helps keep the project improving and allows more time to be dedicated to new modes, features and improvements.
+Your support helps keep the project improving
 
 ---
 
