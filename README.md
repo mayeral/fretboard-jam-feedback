@@ -6,6 +6,9 @@
 
 <a href="https://buymeacoffee.com/alex_m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+
+---
+
 ![Screenshot: Fretboard Jam — main screen showing the user interface](screenshots/app-overview.png)
 
 ---
