@@ -1,10 +1,12 @@
 # Fretboard Jam 🎸
 
-> **Learn the Guitar Fretboard Through Active Playing — Not Just Memorization.**
+> **Learn the Notes on the Guitar Fretboard Through Active Playing — Not Just Visual Memorization.**
 >
-> [fretboardjam.com](https://fretboardjam.com) · Free · No install needed · Works in any modern browser
+> [fretboardjam.com](https://fretboardjam.com)
 
 <a href="https://buymeacoffee.com/alex_m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+![Screenshot: Fretboard Jam — main screen showing the user interface](screenshots/app-overview.png)
 
 ---
 
@@ -35,7 +37,7 @@
 
 ## About
 
-[Fretboard Jam](https://fretboardjam.com/) is a free, browser-based interactive guitar fretboard trainer. No download, no account, no install — open it in your browser and start playing.
+[Fretboard Jam](https://fretboardjam.com/) is a browser-based interactive guitar fretboard trainer. No download, no account, no install — open it in your browser and start playing.
 
 The goal is simple: **know where every note is on the fretboard without thinking about it**. Fretboard Jam trains this through active, game-based exercises — not passive memorization charts.
 
@@ -52,9 +54,13 @@ Most guitar learning resources show you *theory*. A chart of the fretboard. A sc
 
 **Fretboard Jam is built on one principle: Learning by Doing.**
 
-You don't read about where C# is on the D string. You tap it. You get instant feedback. You do it again. After dozens of repetitions spread across short daily sessions, the knowledge becomes automatic — which is the entire point. 
-Building this kind of muscle memory is the key to unlocking the fretboard in real playing situations.
-The same reason flashcard apps work for language learning applies here. Active recall beats passive reading every time. Fretboard Jam applies spaced repetition and active recall to the guitar neck.
+You don't read about where C# is on the D string. You play it.
+
+Plug in your guitar. The app listens via **audio input through your microphone** and detects your pitch in real time. Right note — next challenge fires immediately. Wrong note — try again. No tapping a diagram. No multiple choice. Your actual hands, on your actual strings.
+
+Enable **acoustical feedback** and the app speaks each note name out loud — *"F sharp"*, *"C"*, *"A"* — so your eyes never leave the fretboard. The screen disappears. It starts feeling like someone calling out notes for you to find.
+
+That loop — hear it, find it, play it, repeat — is exactly how **muscle memory** forms. Not from staring at a chart. From doing the thing, over and over, until your fingers move before your brain catches up. That's the whole point.
 
 ---
 
@@ -92,8 +98,6 @@ Fretboard Jam organizes its training into three clusters. Modes unlock progressi
 
 *A note name flashes — find it on the fretboard*
 
-![Screenshot: Note Hunt — a note name is shown in the prompt card and the fretboard waits for a tap](screenshots/mode-notehunt.png)
-
 A note name appears in the prompt card. Tap the correct fret on the correct string. The faster and more accurately you answer, the higher your streak bonus and XP. This is the **core training mode** and the best place to start.
 
 **Available settings:** string lock (one string at a time), fret range, note filter (natural notes only or all 12), octave mode, mic input.
@@ -106,8 +110,6 @@ A note name appears in the prompt card. Tap the correct fret on the correct stri
 
 *A note plays — name it*
 
-![Screenshot: Hear and Name — a fret position is highlighted and 12 note-name buttons appear as choices](screenshots/mode-fretflash.png)
-
 A fret position is shown and a note is played through your speakers. Pick the correct note name from the multiple-choice buttons. This mode trains your **ear alongside your fretboard knowledge** — both are essential for real playing. Tap the fret display at any time to hear the note again.
 
 **Available settings:** octave-strict mode, note filter.
@@ -117,8 +119,6 @@ A fret position is shown and a note is played through your speakers. Pick the co
 #### 🔗 Octave Connect
 
 *Find the same note on every string*
-
-![Screenshot: Octave Connect — one note name shown, string-by-string progress dots visible at top](screenshots/mode-octaveconnect.png)
 
 A note name appears. You must tap the correct fret on **every string** — one string at a time, working from the low E down to the high e. Each string lights up as you complete it. This mode builds a deep, holistic understanding of how the same note repeats across the neck at different octaves.
 
@@ -131,8 +131,6 @@ Mic mode is fully supported: play each position on your guitar and the app detec
 #### 🏃 Speed Run
 
 *Maximum correct notes in 60 seconds*
-
-![Screenshot: Speed Run — countdown timer visible in the corner, fretboard active, score incrementing rapidly](screenshots/mode-speedrun.png)
 
 The clock counts down from 60. Note prompts fire as fast as you can answer them. No time to think — just raw speed and accuracy. Your score at the end is your benchmark to beat in the next session.
 
@@ -272,53 +270,34 @@ The open string note is your anchor for every other note on that string. Memoriz
 
 The inlay dots on the fretboard (frets 3, 5, 7, 9 and double dot at 12) are your visual landmarks.
 
-![Screenshot: Fretboard Jam fretboard with inlay markers clearly visible at frets 3, 5, 7, 9 and 12](screenshots/theory-fretboard-layout.png)
+Here is where **G** appears on every string in standard tuning:
 
-Here is where **C** appears on every string in standard tuning:
-
-| String | Open note | Fret for C |
+| String | Open note | Fret for G |
 |--------|-----------|-----------|
-| 6  Low E | E | 8th fret |
-| 5  A     | A | 3rd fret |
-| 4  D     | D | 10th fret |
-| 3  G     | G | 5th fret |
-| 2  B     | B | 1st fret |
-| 1  High e | e | 8th fret |
+| 6  Low E | E | 3rd fret |
+| 5  A     | A | 10th fret |
+| 4  D     | D | 5th fret |
+| 3  G     | G | open string |
+| 2  B     | B | 8th fret |
+| 1  High e | e | 3rd fret |
+
+![Screenshot: Fretboard Jam fretboard with inlay markers clearly visible at frets 3, 5, 7, 9 and 12](screenshots/theory-fretboard-layout.png)
 
 ---
 
 ### Fretboard Shortcuts
 
-![Screenshot: Fretboard Jam — octave shortcut pattern highlighted on the neck, showing a note on E string and its corresponding position two strings down](screenshots/theory-shortcuts.png)
-
 Once you know a note on one string, you can find the **same note one octave higher** using these consistent patterns:
 
-| From string | To string | Move |
+| Shortcut | From string | To string | Move |
 |-------------|-----------|------|
-| 6 → 4 | +2 strings | +2 frets |
-| 5 → 3 | +2 strings | +2 frets |
-| 4 → 2 | +2 strings | +2 frets |
-| 3 → 1 | +2 strings | +3 frets *(B–G offset)* |
-| Any → same fret +12 | same string | same note, one octave up |
+| #1 | 6 → 4 | +2 strings | +2 frets |
+| #2 | 4 → 2 | +2 strings | +3 frets |
+| #3 | 5 → 3 | +2 strings | +2 frets |
+| #4 | 3 → 1 | +2 strings | +3 frets *(B–G offset)* |
+| #5 | Any → same fret +12 | same string | same note, one octave up |
 
 These patterns mean you only need to **memorize notes on two strings** to navigate the entire neck. Learn the E and A strings completely — everything else follows from there.
-
----
-
-## Suggested Learning Path
-
-Not sure where to start? Here is a recommended progression that takes you from zero to full-neck awareness:
-
-| Stage | Focus | Recommended Mode |
-|-------|-------|-----------------|
-| **1 — One String** | Natural notes on the low E string | Note Hunt (E string locked, naturals only) |
-| **2 — Open Position** | All 6 strings, frets 0–5 | Note Hunt (fret range 0–5) |
-| **3 — Ear Training** | Match what you hear to a note name | Hear & Name |
-| **4 — Octave Awareness** | Same note, every string | Octave Connect |
-| **5 — Speed Benchmark** | Combine everything under time pressure | Speed Run |
-| **6 — Add Accidentals** | Unlock sharps and flats | Note Hunt + Speed Run (accidentals on) |
-| **7 — Full Neck** | No restrictions, all notes | Speed Run (full neck, all notes) |
-| **8 — guitar** | Bridge to actual playing | Any mode with Mic enabled |
 
 ---
 
@@ -338,7 +317,7 @@ Please open an issue and include as much detail as possible:
 
 ## Support the Project
 
-Fretboard Jam is free and will stay free. If it is helping you learn the fretboard, please consider supporting development:
+Fretboard Jam is free. If it is helping you learn the fretboard, please consider supporting development:
 
 <a href="https://buymeacoffee.com/alex_m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
